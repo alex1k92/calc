@@ -14,8 +14,11 @@ a)standard JS issue with floats
 possible solutions?
 rounding up?
 or somehow being specific
+Fixed (with toFixed) 21/5/2021
 
 3)Keyboard binding required
+
+
 a)keyUp,keyDown, keyPress?
 4)negative numbers can't be added. implement +- button for changing the sign
 5)Implement localStorage for previous operations and results
